@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 🏃 Video Game / Music 
 
 ![Yi Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blattvorhang)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blattvorhang&layout=compact)](https://github.com/Blttvorhang/github-readme-stats)
