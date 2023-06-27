@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🍻 Undergraduate at [TJU](https://www.tongji.edu.cn/eng/), *BSc in Automation*; Exchange student at [TUM](https://www.tum.de/en/), *Informatics (Computer Science)*
+- ⚡ C / C++ / Python / Java / Matlab / Ocaml
+- ORCID logo  0009-0005-3311-0454
+- 🏃 Video Game / Music
+- ♟ Mahjong / Go
