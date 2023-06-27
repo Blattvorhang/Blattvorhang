@@ -1,4 +1,4 @@
-### Hi / Hallo / Salut / Hola / 你好 👋
+### Hi / Servus / Salut / Hola / Ciao / 你好 👋
 
 <!--
 **Blattvorhang/Blattvorhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
