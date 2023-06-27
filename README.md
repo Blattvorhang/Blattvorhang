@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ![Yi Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blattvorhang&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blattvorhang&layout=compact)](https://github.com/Blttvorhang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blattvorhang&layout=compact)](https://github.com/Blattvorhang/github-readme-stats)
