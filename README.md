@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi / Hallo / Salut / Hola / 你好 👋
 
 <!--
 **Blattvorhang/Blattvorhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🍻 Undergraduate at [TJU](https://www.tongji.edu.cn/eng/), *BSc in Automation*; Exchange student at [TUM](https://www.tum.de/en/), *Informatics (Computer Science)*
+- 🏫 Undergraduate at 🇨🇳 [TJU](https://www.tongji.edu.cn/eng/), *BSc in Automation*; Exchange student at 🇩🇪 [TUM](https://www.tum.de/en/), *Informatics (Computer Science)*
 - ⚡ C / C++ / Python / Java / Matlab / Ocaml
-- ORCID logo  0009-0005-3311-0454
-- 🏃 Video Game / Music
-- ♟ Mahjong / Go
+- ORCID logo [0009-0001-1883-0489](https://orcid.org/0009-0001-1883-0489)
+- 🏃 Video Game / Music 
+
+![Yi Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blattvorhang)
