@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 - 🏫 Undergraduate at 🇨🇳 [TJU](https://www.tongji.edu.cn/eng/), *BSc in Automation*; Exchange student at 🇩🇪 [TUM](https://www.tum.de/en/), *Informatics (Computer Science)*
 - 💻 C / C++ / Python / Java / Matlab / Ocaml
-- ORCID [0009-0001-1883-0489](https://orcid.org/0009-0001-1883-0489)
+- <a href="https://orcid.org/0009-0001-1883-0489">
+    <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+      0009-0001-1883-0489
+  </a
 - 🎮 Video Game / Music
 - 💬 Chinese / English / German
 
