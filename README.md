@@ -26,7 +26,7 @@ Here are some ideas to get you started:
         hanyi.cn@outlook.com
   </a>
 - 🤖 Deep Learning / Signal Processing / Robotics (Embedded Systems)
-- 🎮 Video Game / Music
+- 🎮 Video Games / Music
 - 💬 Chinese / English / German
 
 ![Yi Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blattvorhang&show_icons=true)
