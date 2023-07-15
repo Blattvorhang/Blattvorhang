@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 - 🎮 Video Games / Music
 - 💬 Chinese / English / German
 
-![Yi Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blattvorhang&show_icons=true)
+![Blattvorhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blattvorhang&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blattvorhang&layout=compact)](https://github.com/Blattvorhang?tab=repositories)
+![Blattvorhang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Blattvorhang&layout=compact&langs_count=10)
 
 - 🔢 Analysis / Advanced Algebra and Analytic Geometry / Probability Theory and Mathematical Statistics / Complex Analysis and Integral Transformations / Combinatorics / Stochastic Processes / Optimization / Game Theory / Operations Research
