@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 ![Yi Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blattvorhang&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blattvorhang&layout=compact)](https://github.com/Blattvorhang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blattvorhang&layout=compact)](https://github.com/Blattvorhang?tab=repositories)
 
 - 🔢 Analysis / Advanced Algebra and Analytic Geometry / Probability Theory and Mathematical Statistics / Complex Analysis and Integral Transformations / Combinatorics / Stochastic Processes / Optimization / Game Theory / Operations Research
