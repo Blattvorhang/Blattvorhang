@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 ![Yi Han's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Blattvorhang&layout=compact&langs_count=10)
 
-- 🔢 Analysis / Advanced Algebra and Analytic Geometry / Probability Theory and Mathematical Statistics / Complex Analysis and Integral Transformations / Combinatorics / Stochastic Processes / Optimization / Game Theory / Operations Research
+- 🔢 Analysis / Advanced Algebra and Analytic Geometry / Probability Theory and Mathematical Statistics / Complex Analysis and Integral Transformations / Stochastic Processes / Combinatorics / Discrete Maths / Optimization / Game Theory / Operations Research
