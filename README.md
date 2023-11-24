@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 Undergraduate at 🇨🇳 [TJU](https://www.tongji.edu.cn/eng/), *BSc in Automation*; Exchange student at 🇩🇪 [TUM](https://www.tum.de/en/), *Informatics (Computer Science)*
+- 🏫 Undergraduate at 🇨🇳 [TJU](https://www.tongji.edu.cn/eng/), *BSc in Automation*; Exchange student at 🇩🇪 [TUM](https://www.tum.de/en/), *Informatics (Computer Science)*, SS 2023
 - 💻 C / C++ / Python / Java / Matlab / Ocaml / Verilog
 - <a href="https://orcid.org/0009-0001-1883-0489">
     <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_128x128.png" width="20"/>
