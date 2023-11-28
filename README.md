@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <img alt="Outlook logo" src="https://www.freepnglogos.com/uploads/logo-outlook-png/file-microsoft-office-outlook-logo-present-svg-wikipedia-1.png" width="20"/>
         hanyi.cn@outlook.com
   </a>
-- 🤖 Deep Learning / Signal Processing / Robotics (Embedded Systems)
+- 🤖 Deep Learning / Signal Processing / Embedded Systems
 - 🎮 Video Games / Music
 - 💬 Chinese / English / German
 
