@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 - 🏫 Undergraduate at 🇨🇳 [TJU](https://www.tongji.edu.cn/eng/), *BSc in Automation*; Exchange student at 🇩🇪 [TUM](https://www.tum.de/en/), *Informatics (Computer Science)*, SS 2023
 - ⌨️ C / C++ / Python / Java / Matlab / Ocaml / Verilog
 - 🖥️ Linux / Docker / LaTeX
-- 🤖 Deep Learning / Signal Processing / Embedded Systems / FPGA
+- 🤖 Deep Learning / Signal Processing / Embedded Systems / FPGA / Robotics
+
+<!--
 - <a href="https://orcid.org/0009-0001-1883-0489">
     <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_128x128.png" width="20"/>
         0009-0001-1883-0489
@@ -27,6 +29,8 @@ Here are some ideas to get you started:
     <img alt="Outlook logo" src="https://www.freepnglogos.com/uploads/logo-outlook-png/file-microsoft-office-outlook-logo-present-svg-wikipedia-1.png" width="20"/>
         hanyi.cn@outlook.com
   </a>
+-->
+
 - 🎮 Video Games / Music
 - 💬 Chinese / English / German
 
