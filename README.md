@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - ⌨️ C / C++ / Python / Java / Matlab / Ocaml / Verilog / MySQL
 - 🖥️ Linux / Docker / LaTeX
 - 🤖 Deep Learning / Computer Vision / Data Mining / Signal Processing / Embedded Systems / FPGA / Control / Robotics 
+- 🎮 Video Games / Music
+- 💬 Chinese / English / German
+
+<!--
 - <a href="https://orcid.org/0009-0001-1883-0489">
     <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_128x128.png" width="20"/>
         0009-0001-1883-0489
@@ -27,8 +31,7 @@ Here are some ideas to get you started:
     <img alt="Outlook logo" src="https://www.freepnglogos.com/uploads/logo-outlook-png/file-microsoft-office-outlook-logo-present-svg-wikipedia-1.png" width="20"/>
         hanyi.cn@outlook.com
   </a>
-- 🎮 Video Games / Music
-- 💬 Chinese / English / German
+-->
 
 ![Yi Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blattvorhang&show_icons=true)
 
