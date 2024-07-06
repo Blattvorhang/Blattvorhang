@@ -33,10 +33,10 @@ Here are some ideas to get you started:
   </a>
 -->
 
-<!--
 ![Yi Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blattvorhang&show_icons=true)
--->
 
+<!--
 ![Yi Han's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Blattvorhang&layout=compact&langs_count=10)
+-->
 
 - 🔢 Analysis / Advanced Algebra and Analytic Geometry / Probability Theory and Mathematical Statistics / Complex Analysis and Integral Transformations / Stochastic Processes / Combinatorics / Discrete Maths / Optimization / Game Theory / Operations Research
