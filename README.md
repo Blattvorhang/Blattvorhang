@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 
 - 🏫 Undergraduate at 🇨🇳 [TJU](https://www.tongji.edu.cn/eng/), *BSc in Automation*; Exchange student at 🇩🇪 [TUM](https://www.tum.de/en/), *Informatics (Computer Science)*, SS 2023
 - ⌨️ C / C++ / Python / Java / Matlab / Ocaml / Verilog / MySQL
-- 🖥️ Linux / Docker / LaTeX
 - 🤖 Deep Learning / Computer Vision / Autonomous Driving / Data Mining / Robotics / Signal Processing / Embedded Systems / FPGA / Control
 - 🎮 Video Games / Music
 - 💬 Chinese / English / German
+
+<!--
+- 🖥️ Linux / Docker / LaTeX
+-->
 
 <!--
 - <a href="https://orcid.org/0009-0001-1883-0489">
