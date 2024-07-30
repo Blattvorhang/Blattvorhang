@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🏫 Undergraduate at 🇨🇳 [TJU](https://www.tongji.edu.cn/eng/), *BSc in Automation*; Exchange student at 🇩🇪 [TUM](https://www.tum.de/en/), *Informatics (Computer Science)*, SS 2023
 - ⌨️ C / C++ / Python / Java / Matlab / Ocaml / Verilog / MySQL
-- 🤖 Deep Learning / Computer Vision / Autonomous Driving / Data Mining / Robotics / Signal Processing / Embedded Systems / FPGA / Control
+- 🤖 Computer Vision / Autonomous Driving / Robotics / Data Mining / Signal Processing / Embedded Systems / FPGA
 - 🎮 Video Games / Music
 - 💬 Chinese / English / German
 
