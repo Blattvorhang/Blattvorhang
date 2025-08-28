@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 Undergraduate at 🇨🇳 [TJU](https://www.tongji.edu.cn/eng/), *B.E. in Automation*; Exchange student at 🇩🇪 [TUM](https://www.tum.de/en/), *Informatics (Computer Science)*, SS 2023
+- 🏫 Graduate Student at 🇨🇳 [SJTU](https://en.sjtu.edu.cn/), *M.E. in Control Science and Engineering*; Undergraduate at 🇨🇳 [TJU](https://www.tongji.edu.cn/eng/), *B.E. in Automation*; Exchange student at 🇩🇪 [TUM](https://www.tum.de/en/), *Informatics (Computer Science)*, SS 2023
 - ⌨️ C / C++ / Python / Matlab / Java / Ocaml / Verilog / MySQL
 - 🤖 **Embodied AI & Physical AI & Spatial Intelligence** / AI Agent / Embedded Systems / Data Mining / Signal Processing / FPGA
 - 🎮 Video Games / Music
