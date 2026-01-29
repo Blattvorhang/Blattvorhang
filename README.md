@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🏫 Graduate in *Control Science and Engineering*, 🇨🇳 [SJTU](https://en.sjtu.edu.cn/); *B.E. in Automation*, 🇨🇳 [TJU](https://www.tongji.edu.cn/eng/); Exchange student in *Informatics (Computer Science)*, 🇩🇪 [TUM](https://www.tum.de/en/), SS 2023
-- 🔭 **Focus:** Feed-forward 3DGS / VLA & World Model
+- 🔭 **Focus:** 3D Renconstruction / VLA & World Model
 - 🤖 **Interests:** Embodied AI & Physical AI & Spatial Intelligence / Agentic AI / Embedded Systems / Data Mining / Signal Processing / FPGA
 - ⌨️ C / C++ / Python / MATLAB / Java / Ocaml / Verilog / MySQL
 - 🎮 Video Games / Music / Photography
