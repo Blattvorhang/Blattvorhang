@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 **Focus:** 3D Reconstruction / VLA & World Model / Humanoid-Scene Interaction (Whole-Body Control）
 - 🤖 **Interests:** Embodied AI & Physical AI & Spatial Intelligence / Agentic AI / Embedded Systems / Data Mining / Signal Processing / FPGA
 - ⌨️ Python / C / C++ / MATLAB / Java / Ocaml / Verilog
-- 🎮 Video Games / Music / Photography
+- 🎮 Video Games / Music / Photography / Hip Hop
 - 💬 Chinese / English / German
 
 <!--
