@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 Graduate in *Control Science and Engineering*, 🇨🇳 [SJTU](https://en.sjtu.edu.cn/); *B.E. in Automation*, 🇨🇳 [TJU](https://www.tongji.edu.cn/eng/); Exchange student in *Informatics (Computer Science)*, 🇩🇪 [TUM](https://www.tum.de/en/), SS 2023
+- 🏫 Graduate in *Control Science and Engineering*, 🇨🇳 [SJTU](https://en.sjtu.edu.cn/); *B.E. in Automation*, 🇨🇳 [TJU](https://en.tongji.edu.cn/); Exchange student in *Informatics (Computer Science)*, 🇩🇪 [TUM](https://www.tum.de/en/), SS 2023
 - 🔭 **Focus:** 3D Reconstruction / VLA & World Model / Humanoid-Scene Interaction (Whole-Body Control）
 - 🤖 **Interests:** Embodied AI & Physical AI & Spatial Intelligence / Agentic AI / Embedded Systems / Data Mining / Signal Processing / FPGA
 - ⌨️ Python / C / C++ / MATLAB / Java / Ocaml / Verilog
